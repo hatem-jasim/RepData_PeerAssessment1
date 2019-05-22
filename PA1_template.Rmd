@@ -7,7 +7,6 @@ output: html_document
 
 ```{r message=FALSE, warning=FALSE}
 library(dplyr)
-library(ggplot2)
 library(lattice) 
 
 ```
